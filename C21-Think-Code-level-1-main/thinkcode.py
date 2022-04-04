@@ -8,7 +8,7 @@ answer = input("How about you?: ")
 if answer == "its okay":
     print("That's good to hear!")
 else:
-    print("Oh no! That makes me sad!")
+    print("Oh no! that answer is not correct!")
 
 print("Thanks for using my program!")
 #einde
